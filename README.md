@@ -1,2 +1,1 @@
-# dockernginx
-Segédlet
+# nginx
