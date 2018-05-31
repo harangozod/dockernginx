@@ -1,3 +1,4 @@
+# Harangozó Dávid
 FROM nginx
 RUN rm /usr/share/nginx/html/*
 COPY web /usr/share/nginx/html
